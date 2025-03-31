@@ -1,3 +1,7 @@
+![Screenshot (2)](https://github.com/user-attachments/assets/90d5f04e-441a-429a-a090-dfde2cb1eb3c)
+
+
+
 # To-Do List Project
 
 A simple To-Do List application that allows users to add, edit, delete, and mark tasks as completed. The app persists tasks even after page refresh using a backend with Node.js and a PostgreSQL database.
