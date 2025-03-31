@@ -12,9 +12,9 @@ The To-Do List App is a simple yet powerful task management tool designed to hel
 
 ✔️ Mark tasks as completed
 
-🚀 Features
 
-🚀 Features
+
+✨  Features 🚀
 
 🎯 Easy Task Management – Add, edit, delete, and complete tasks effortlessly.
 
