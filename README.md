@@ -16,8 +16,7 @@ A simple To-Do List application that allows users to add, edit, delete, and mark
     I'm [Khulekani Mtshali], a software developer passionate about building web applications. 
     I specialize in front-end and back-end technologies like HTML, CSS, JavaScript,     
     Node.js, and PostgreSQL. With a focus on writing clean, scalable code,
-    I love solving complex problems and continually expanding my skill set. Always eager to learn, I 
-   stay updated with the latest trends and enjoy collaborating with others to create impactful solutions
+    I love solving complex problems and continually expanding my skill set. Always eager to learn. 
 
 ## Technologies Used
 
