@@ -36,7 +36,10 @@ A simple To-Do List application that allows users to add, edit, delete, and mark
 
 1. **Deployment**
    
-   mkhulekani.github.io/new-todolist/
+   https://mkhulekani.github.io/new-todolist/
+
+
+   
    
    
    
